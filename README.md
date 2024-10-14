@@ -47,6 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=encriptador&theme=radical" alt="Encriptador"/>
   </a>
 </div>
+
 <!-- Contacto -->
 ## 📫 How to reach me
 
