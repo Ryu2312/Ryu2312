@@ -1,4 +1,6 @@
 <!-- Encabezado con avatar y presentación -->
+<img src="https://avatars.dicebear.com/9.x/jonhdou/.svg" width="100"/>
+
 <h1 align="center">Hi there, I'm Alexis <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY2M29uZXI2YmNud2E2a2FsamNuZTNxNGN5N3NrbGR6M3I2bzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.webp" width="40" style="border-radius: 50%;" alt="Avatar"/></h1>
 <p align="center">I am a passionate Full Stack Developer 🚀, currently learning Java.</p>
 
@@ -8,11 +10,11 @@
 <table  width="100%">
   <tr>
     <td style="border: none;" width="50%">
-      <img  width="100%" style="background-color: black" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-      <img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=radical" alt="GitHub Streak"/>
+      <img  width="100%" style="background-color: black" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      <img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=dark" alt="GitHub Streak"/>
     </td>
     <td style="border: none;" width="50%" align="center">
-     <img  width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
+     <img  width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&theme=dark" alt="Most Used Languages"/>
   </tr>
 </table>
 
@@ -41,10 +43,10 @@
 
 <div align="center">
   <a href="https://github.com/Ryu2312/my-api-resfull">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=my-api-resfull&theme=radical" alt="My API Resfull"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=my-api-resfull&theme=dark" alt="My API Resfull"/>
   </a>
   <a href="https://github.com/Ryu2312/encriptador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=encriptador&theme=radical" alt="Encriptador"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=encriptador&theme=dark" alt="Encriptador"/>
   </a>
 </div>
 
