@@ -1,8 +1,10 @@
 <!-- Encabezado con avatar y presentación -->
-<img src="https://avatars.dicebear.com/9.x/jonhdou/.svg" width="100"/>
+<div align="center">
+  <img src="./waving doorway.png" width="100" alt="Imagen con desvanecimiento"/>
+</div>
 
 <h1 align="center">Hi there, I'm Alexis <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY2M29uZXI2YmNud2E2a2FsamNuZTNxNGN5N3NrbGR6M3I2bzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.webp" width="40" style="border-radius: 50%;" alt="Avatar"/></h1>
-<p align="center">I am a passionate Full Stack Developer 🚀, currently learning Java.</p>
+<p align="center">🌐 Full-Stack Web Developer passionate about creating ✨ intuitive user experiences and 🚀 innovative projects. Self-taught professional, with ease in working in 🤝 collaborative environments and contributing to common team goals. Currently looking to explore opportunities in ⚙️ performance optimization and 🧹 clean code; excited to make 🌟 meaningful contributions and continue to 📚 learn continuously.</p>
 
 <!-- Estadísticas de GitHub -->
 ## 📊 My GitHub Stats
