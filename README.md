@@ -1,3 +1,19 @@
+<!-- Estilo para fondo negro y texto blanco -->
+<style>
+  body {
+    background-color: #1E1E1E; /* Fondo negro mate */
+    color: white; /* Texto blanco */
+  }
+  table {
+    background-color: #2D2D2D; /* Color de fondo para las tablas */
+    border-collapse: collapse; /* Colapsar bordes de la tabla */
+    border: none; /* Sin bordes visibles */
+  }
+  td {
+    padding: 10px; /* Espaciado interno de las celdas */
+  }
+</style>
+
 <!-- Encabezado con avatar y presentación -->
 <h1 align="center">Hi there, I'm Alexis <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY2M29uZXI2YmNud2E2a2FsamNuZTNxNGN5N3NrbGR6M3I2bzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.webp" width="40" style="border-radius: 50%;" alt="Avatar"/></h1>
 <p align="center">I am a passionate Full Stack Developer 🚀, currently learning Java.</p>
@@ -5,21 +21,17 @@
 <!-- Estadísticas de GitHub -->
 ## 📊 My GitHub Stats
 
-<div style="display: flex; gap: 100">
-
-  <div style="display: flex; flex-direction:column;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=radical" alt="GitHub Streak"/>
-  </div>
-
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
-  </div>
-
-</div>
-
-
-
+<table width="100%">
+  <tr>
+    <td style="border: none;" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=radical" alt="GitHub Streak"/>
+    </td>
+    <td style="border: none;" width="50%" align="center">
+      <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Tecnologías que utilizas -->
 ## 🛠️ Technologies and Tools
@@ -43,21 +55,19 @@
 ## 📂 Top Projects
 
 <div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" alt="Project 1"/>
+  <a href="https://github.com/Ryu2312/my-api-resfull">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=my-api-resfull&theme=radical" alt="My API Resfull"/>
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" alt="Project 2"/>
-  </a>
-  <a href="https://github.com/your-username/project-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=radical" alt="Project 3"/>
+  <a href="https://github.com/Ryu2312/encriptador">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=encriptador&theme=radical" alt="Encriptador"/>
   </a>
 </div>
 
 <!-- Contacto -->
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
+- Email: alessiasophia23@gmail.com
+- LinkedIn: www.linkedin.com/in/alexislazo
+
 
 
