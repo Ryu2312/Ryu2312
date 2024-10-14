@@ -1,20 +1,25 @@
 <!-- Encabezado con avatar y presentación -->
-<p align="center">
-  <img src="![Descripción de la imagen](https://imgur.com/a/IJcXKp6)
-" width="150" style="border-radius: 50%;" alt="Avatar"/>
-</p>
-
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
+<h1 align="center">Hi there, I'm Alexis <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY2M29uZXI2YmNud2E2a2FsamNuZTNxNGN5N3NrbGR6M3I2bzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.webp" width="40" style="border-radius: 50%;" alt="Avatar"/></h1>
 <p align="center">I am a passionate Full Stack Developer 🚀, currently learning Java.</p>
 
 <!-- Estadísticas de GitHub -->
 ## 📊 My GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
+<div style="display: flex; gap: 100">
+
+  <div style="display: flex; flex-direction:column;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=radical" alt="GitHub Streak"/>
+  </div>
+
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
+  </div>
+
 </div>
+
+
+
 
 <!-- Tecnologías que utilizas -->
 ## 🛠️ Technologies and Tools
