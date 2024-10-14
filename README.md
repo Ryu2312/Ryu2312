@@ -1,13 +1,7 @@
 <!-- Encabezado con avatar y presentación -->
 <div align="center">
-  <img src="./waving doorway.png" width="100" alt="Imagen con desvanecimiento"/>
+  <img src="./waving doorway.png" width="150" alt="Imagen con desvanecimiento"/>
 </div>
-![Banner](https://github.com/Ryu2312/tu-repo/raw/main/Captura de pantalla 2024-07-22 155731.png)
-
-# Hi there, I'm Alexis
-🌐 Full-Stack Web Developer passionate about creating ✨ intuitive user experiences and 🚀 innovative projects. Self-taught professional, with ease in working in 🤝 collaborative environments and contributing to common team goals. Currently looking to explore opportunities in ⚙️ performance optimization and 🧹 clean code; excited to make 🌟 meaningful contributions and continue to 📚 learn continuously.
-
-![Banner](https://github.com/Ryu2312/Ryu2312/main/Captura de pantalla 2024-07-22 155731.png)
 <h1 align="center">Hi there, I'm Alexis <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY2M29uZXI2YmNud2E2a2FsamNuZTNxNGN5N3NrbGR6M3I2bzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.webp" width="40" style="border-radius: 50%;" alt="Avatar"/></h1>
 <p align="center">🌐 Full-Stack Web Developer passionate about creating ✨ intuitive user experiences and 🚀 innovative projects. Self-taught professional, with ease in working in 🤝 collaborative environments and contributing to common team goals. Currently looking to explore opportunities in ⚙️ performance optimization and 🧹 clean code; excited to make 🌟 meaningful contributions and continue to 📚 learn continuously.</p>
 
