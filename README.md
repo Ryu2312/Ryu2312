@@ -54,6 +54,6 @@
 <!-- Contacto -->
 ## 📫 How to reach me
 
-- Email: alessiasophia23@gmail.com
+- Email: alexis.arturo.lazo23@gmail.com
 - LinkedIn: www.linkedin.com/in/alexislazo
 
