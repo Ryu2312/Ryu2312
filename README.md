@@ -135,22 +135,13 @@ Goals:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ryu2312/Ryu2312/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=github-dark-blue&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryu2312&theme=github_dark"/>
+</p>
 
 ---
 
