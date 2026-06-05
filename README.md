@@ -28,9 +28,9 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer from Peru with professional experience building and maintaining web applications using modern JavaScript and TypeScript technologies.
+I'm a Full Stack Developer from Peru with professional experience building web applications using modern JavaScript and TypeScript technologies.
 
-My primary focus is backend development, where I enjoy designing APIs, implementing scalable architectures, improving code quality, and solving complex business problems.
+Over the last few years, I've worked on backend systems, REST APIs, cloud integrations, and frontend applications across multiple industries.
 
 Currently, I'm expanding my knowledge in software architecture, compiler fundamentals, and source code analysis while building personal projects that challenge me beyond traditional CRUD applications.
 
@@ -176,6 +176,6 @@ Goals:
 
 ### 🚀 Building software, learning continuously, and growing every day.
 
-*"The more I understand how software works internally, the better systems I can build."*
+*"Understanding software internals helps me build better systems, write cleaner code, and solve more complex problems."*
 
 </div>
