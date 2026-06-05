@@ -1,59 +1,190 @@
-<!-- Encabezado con avatar y presentación -->
 <div align="center">
-  <img src="./waving doorway.png" width="150" alt="Imagen con desvanecimiento"/>
-</div>
-<h1 align="center">Hi there, I'm Alexis <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY2M29uZXI2YmNud2E2a2FsamNuZTNxNGN5N3NrbGR6M3I2bzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.webp" width="40" style="border-radius: 50%;" alt="Avatar"/></h1>
-<p align="center">🌐 Full-Stack Web Developer passionate about creating ✨ intuitive user experiences and 🚀 innovative projects. Self-taught professional, with ease in working in 🤝 collaborative environments and contributing to common team goals. Currently looking to explore opportunities in ⚙️ performance optimization and 🧹 clean code; excited to make 🌟 meaningful contributions and continue to 📚 learn continuously.</p>
 
-<!-- Estadísticas de GitHub -->
-## 📊 My GitHub Stats
+# 👋 Hi, I'm Alexis Lazo
 
-<table  width="100%">
-  <tr>
-    <td style="border: none;" width="50%">
-      <img  width="100%" style="background-color: black" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-      <img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=dark" alt="GitHub Streak"/>
-    </td>
-    <td style="border: none;" width="50%" align="center">
-     <img  width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&theme=dark" alt="Most Used Languages"/>
-  </tr>
-</table>
+### Full Stack Developer
 
+#### Backend-Focused • TypeScript • Node.js • NestJS
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Focused+Engineer;Node.js+%7C+TypeScript+%7C+NestJS;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-<!-- Tecnologías que utilizas -->
-## 🛠️ Technologies and Tools
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Zod-14B7ED?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<a href="https://www.linkedin.com/in/alexislazo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:alexis.arturo.lazo23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ryu2312">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-<!-- Proyectos destacados -->
-## 📂 Top Projects
+---
+
+## 🚀 About Me
+
+I'm a Full Stack Developer from Peru with professional experience building and maintaining web applications using modern JavaScript and TypeScript technologies.
+
+My primary focus is backend development, where I enjoy designing APIs, implementing scalable architectures, improving code quality, and solving complex business problems.
+
+Currently, I'm expanding my knowledge in software architecture, compiler fundamentals, and source code analysis while building personal projects that challenge me beyond traditional CRUD applications.
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Legal Factory — Backend Developer
+
+* Developed and maintained backend services using **NestJS** and **Fastify**
+* Worked with **Prisma ORM**
+* Implemented new business features and refactored existing code
+* Managed cloud resources using **AWS S3** and **AWS EC2**
+* Improved maintainability and performance of backend systems
+
+---
+
+### 🏢 Codeable Labs — Software Developer
+
+* Developed REST APIs using **Node.js**, **Express**, and **NestJS**
+* Worked with **Sequelize ORM**
+* Contributed to frontend development using **Vue**
+* Collaborated across multiple client projects
+
+---
+
+### 🏢 Tecretail — Frontend Developer
+
+* Developed ERP interfaces using **Vue**
+* Built reusable UI components
+* Worked closely with design and backend teams
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/Ryu2312/my-api-resfull">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=my-api-resfull&theme=dark" alt="My API Resfull"/>
-  </a>
-  <a href="https://github.com/Ryu2312/encriptador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu2312&repo=encriptador&theme=dark" alt="Encriptador"/>
-  </a>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,java" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+
+### Databases & ORMs
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge"/>
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+
 </div>
 
-<!-- Contacto -->
-## 📫 How to reach me
+---
 
-- Email: alexis.arturo.lazo23@gmail.com
-- LinkedIn: www.linkedin.com/in/alexislazo
+## 🌱 Currently Learning
 
+I'm currently exploring topics that help me understand software at a deeper level:
+
+* Software Architecture
+* Design Patterns
+* Compiler Fundamentals
+* Static Code Analysis
+* Abstract Syntax Trees (AST)
+* Developer Tooling
+* Performance Optimization
+
+---
+
+## 🚧 Current Side Project
+
+### AST-Based Code Analysis Tool
+
+A personal project focused on understanding source code through AST traversal and visualization.
+
+Goals:
+
+* Analyze project structure automatically
+* Generate dependency graphs
+* Improve codebase understanding
+* Explore static analysis techniques
+* Learn compiler-related concepts
+
+> Currently under active development.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ryu2312/Ryu2312/snake-output/snake.svg" alt="Snake animation" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryu2312&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2312&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2312&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Areas of Interest
+
+* Backend Development
+* API Design
+* Software Architecture
+* Distributed Systems
+* Static Code Analysis
+* Compiler Design
+* Performance Optimization
+* Developer Experience (DX)
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+📧 **[alexis.arturo.lazo23@gmail.com](mailto:alexis.arturo.lazo23@gmail.com)**
+
+💼 **LinkedIn:** linkedin.com/in/alexislazo
+
+🇵🇪 Lima, Peru
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building software, learning continuously, and growing every day.
+
+*"The more I understand how software works internally, the better systems I can build."*
+
+</div>
