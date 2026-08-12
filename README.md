@@ -67,37 +67,40 @@ Currently, I'm expanding my knowledge in software architecture, compiler fundame
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<table align="center" border="0">
+  <tr style="border: 0;">
+    <td align="center" >
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,java" />
+    </td>
+     <td align="center">
+      <b>Cloud & Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+    </td>
+  </tr>
 
-### Languages
+  <tr style="border: 0;">
+    <td align="center" >
+      <b>Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+    </td>
+    <td align="center" >
+      <b>Databases & ORMs</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,prisma,sequelize" />
+      <img
+        height="48" style="" background-color="#f0f8ff"
+        src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drizzle-orm/dark.svg"
+      />
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=js,ts,java" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-
-### Databases & ORMs
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge"/>
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
-
-</div>
+  <tr>
+     <td align="center" colspan="2">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />
+    </td>
+  </tr>
+</table>
 
 ---
 
